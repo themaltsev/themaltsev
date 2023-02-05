@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @themaltsev Aleksand Maltsev Coder Self - taught
 - 👀 I’m interested in JS PHP python 
 
+Web проекты: 
+https://fixdevice.pro
+https://crm.fixdevice.pro
+
+БОТ для автомазации продажи аккаунтов личного VPN сервера
+https://t.me/M4VPN_bot
+
 Моя недавняя работа: https://t.me/M4lets_music_bot
 
 ✋ Приветствую тебя UserName 
