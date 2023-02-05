@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @themaltsev Aleksand Maltsev Coder Self - taught
-- 👀 I’m interested in JS PHP python 
+- 👋 Привет @themaltsev Aleksand Maltsev кодер самоучка
+- 👀 Я изучаю уже более 5 лет JS PHP python 
 
 Проекты: 
 
