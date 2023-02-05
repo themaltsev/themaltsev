@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themaltsev Aleksand Maltsev Coder Self - taught
 - 👀 I’m interested in JS PHP python 
 
-Web проекты: 
+Проекты: 
 
 https://fixdevice.pro
 
