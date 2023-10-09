@@ -17,6 +17,11 @@ https://crm.fixdevice.pro
 БОТ для автомазации продажи аккаунтов личного VPN сервера OpenVpn
 https://t.me/M4VPN_bot
 
+
+БОТ для автомазации продажи аккаунтов личного VPN сервера Wireguard
+https://t.me/M4VPN2_bot
+
+
 Моя недавняя работа:
 https://t.me/M4lets_music_bot 
 
