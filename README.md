@@ -12,8 +12,8 @@ https://fixdevice.pro
 
 Своя CRM "M4letsCRM" на NUXT JS 2 версии
 Система многопользовательская, считает доходы, оботор за месяц, неделю, день. Планирую улучшать и совершенствовать! 
-Планы: перебисать бек на ноде, лайв чат для сайта на websoket
-https://crm.fixdevice.pro
+back: node express, front nuxt3
+https://crmius.ru
 
 
 🤖 Бот для автомазации продажи конфигурационных файлов Wireguard и Openvpn
