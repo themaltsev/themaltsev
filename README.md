@@ -10,7 +10,7 @@ https://fixdevice.pro
 
 
 
-Своя CRM "M4letsCRM" на NUXT JS 2 версии
+Своя CRM "M4letsCRM" на NUXT JS 3 версии
 Система многопользовательская, считает доходы, оботор за месяц, неделю, день. Планирую улучшать и совершенствовать! 
 back: node express, front nuxt3
 https://crmius.ru
