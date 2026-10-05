@@ -118,7 +118,7 @@
 
 ---
 
-## 🔐 M4PROXY / M4 VPN
+## 🔐 M4PROXY.RU / @M4VPNBOT
 
 ### Telegram-сервис автоматизации VPN
 
@@ -292,7 +292,7 @@ https://fixdevice.pro/
 📊 **CRMIUS**  
 https://crmius.ru/
 
-🔐 **M4 VPN**  
+🔐 **M4VPNBOT**  
 https://t.me/m4vpnbot
 
 🇬🇧 **ANYAZBOT**  
