@@ -1,5 +1,5 @@
 - 👋 Привет я кодер самоучка
-- 👀 Я изучаю уже более 7 лет JavaScript PHP Python 
+- 👀 Я изучаю c 2016 года JavaScript PHP Python 
 
 Проекты: 
 
